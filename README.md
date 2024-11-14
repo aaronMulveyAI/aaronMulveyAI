@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Bienvenido a mi perfil de GitHub! Soy estudiante de Ciencia de Datos e Inteligencia Artificial, apasionado por la computación cuántica, la programación paralela y la ciberseguridad. Aquí encontrarás proyectos que reflejan mi viaje en el aprendizaje y desarrollo de software.
+Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with a background in Data Science and Artificial Intelligence from Maastricht University. Originally trained in Physical Activity and Sports Sciences, I discovered my passion for mathematics and data through my thesis work, which led me to further studies in data science. I am skilled in Python, Java, R, SQL, and various machine learning frameworks, and I’m always eager to take on new challenges and expand my knowledge. Here, you'll find projects that showcase my journey in data science, AI, and software development.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
