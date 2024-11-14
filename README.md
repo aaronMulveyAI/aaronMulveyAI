@@ -4,9 +4,9 @@
 <img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.png?raw=true">
 
 <p>
-  <a href="[https://www.linkedin.com/[removed]](https://www.linkedin.com/in/aaron-mulvey/)" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+  <a href="https://www.linkedin.com/in/aaron-mulvey/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn"> LinkedIn
+  </a>
 </p>
 
 
