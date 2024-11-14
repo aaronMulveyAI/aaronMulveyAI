@@ -1,7 +1,5 @@
-# Hola, soy Aarón Mulvey 👋
-
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hello there, I´m Aaron Mulvey</a> 👋</h1>
 </div>
 <img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.png?raw=true">
 
