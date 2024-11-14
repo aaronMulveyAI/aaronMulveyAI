@@ -1,5 +1,12 @@
 # Hola, soy Aarón Mulvey 👋
 
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
+
+
+
 Bienvenido a mi perfil de GitHub! Soy estudiante de Ciencia de Datos e Inteligencia Artificial, apasionado por la computación cuántica, la programación paralela y la ciberseguridad. Aquí encontrarás proyectos que reflejan mi viaje en el aprendizaje y desarrollo de software.
 
 <!--
