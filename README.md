@@ -3,6 +3,8 @@
 </div>
 <img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.png?raw=true">
 
+[![LinkedIn](www.linkedin.com/in/aaron-mulvey)
+
 
 
 Bienvenido a mi perfil de GitHub! Soy estudiante de Ciencia de Datos e Inteligencia Artificial, apasionado por la computación cuántica, la programación paralela y la ciberseguridad. Aquí encontrarás proyectos que reflejan mi viaje en el aprendizaje y desarrollo de software.
