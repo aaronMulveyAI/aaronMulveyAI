@@ -3,7 +3,15 @@
 </div>
 <img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.png?raw=true">
 
-[![LinkedIn](www.linkedin.com/in/aaron-mulvey)
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 
 
 
