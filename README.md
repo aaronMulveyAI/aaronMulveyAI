@@ -13,9 +13,9 @@ Bienvenido a mi perfil de GitHub! Soy estudiante de Ciencia de Datos e Inteligen
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/aaron-mulvey">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaronMulveyAI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaronMulveyAI&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaronMulveyAI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaronMulveyAI&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
