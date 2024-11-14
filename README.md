@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/aaronMulveyAI)
+[![GitHub followers](https://img.shields.io/github/followers/aaronMulveyAI?style=social)](https://github.com/aaronMulveyAI)
 
 Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with a background in Data Science and Artificial Intelligence from Maastricht University. Originally trained in Physical Activity and Sports Sciences, I discovered my passion for mathematics and data through my thesis work, which led me to further studies in data science. I am skilled in Python, Java, R, SQL, and various machine learning frameworks, and I’m always eager to take on new challenges and expand my knowledge. Here, you'll find projects that showcase my journey in data science, AI, and software development.
 
