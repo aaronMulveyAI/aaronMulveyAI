@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with 
 
 ## 💼 Technical Skills
 
-### 💻 Programming Languages
+### 👨🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -29,13 +29,13 @@ Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with 
 ![TKinter](https://img.shields.io/badge/TKinter-%23FF6F00.svg?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🔧 Databases
+### 📚 Databases
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%230074A3.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Version Control & CI/CD
+### ☁️ Version Control & CI/CD
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
