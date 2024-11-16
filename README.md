@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Hello there, I´m Aaron Mulvey 👋</h1>
 </div>
-<img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.png?raw=true">
-
+<img src="https://github.com/aaronMulveyAI/aaronMulveyAI/blob/main/Banner.gif" alt="Aaron Mulvey Banner GIF">
 
 
 Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with a background in Data Science and Artificial Intelligence from Maastricht University. Originally trained in Physical Activity and Sports Sciences, I discovered my passion for mathematics and data through my thesis work, which led me to further studies in data science. I am skilled in Python, Java, R, SQL, and various machine learning frameworks, and I’m always eager to take on new challenges and expand my knowledge. Here, you'll find projects that showcase my journey in data science, AI, and software development.
