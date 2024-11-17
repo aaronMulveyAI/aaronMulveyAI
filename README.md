@@ -65,10 +65,11 @@ Welcome to my GitHub profile! I am a Junior Data Scientist and AI Engineer with 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/aaron-mulvey">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaronMulveyAI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaronMulveyAI&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaronMulveyAI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=300"/>
+   <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaronMulveyAI&layout=compact&langs_count=8&theme=algolia&cache_seconds=300"/>
   </a>
 </div>
+
 
 
 
